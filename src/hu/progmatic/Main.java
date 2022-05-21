@@ -119,9 +119,4 @@ public class Main {
             e.printStackTrace();
         }
     }
-    public static int numberOfPits(List<Integer> pits) {
-        for (Integer pit : pits) {
-        }
-        return 0;
-    }
 }
